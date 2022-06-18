@@ -1,0 +1,22 @@
+{
+  "processes": {
+    "151b2886-9e41-485b-b71e-d478cb08b9d3": {
+      "parent": "e6b381fb-3f4c-49b8-8607-638c852bb317",
+      "children": ["a334fbbc-a653-4195-9ffb-240d301900e5"]
+    },
+    "a334fbbc-a653-4195-9ffb-240d301900e5": {
+      "parent": "151b2886-9e41-485b-b71e-d478cb08b9d3",
+      "children": []
+    },
+    "e6b381fb-3f4c-49b8-8607-638c852bb317": {
+      "parent": null,
+      "children": ["151b2886-9e41-485b-b71e-d478cb08b9d3"]
+    }
+  },
+  "files": {
+    "/Users/julio/studies/js-expert-course/projects/modulo2-js-testing/aula04-coverage-e2e/src/api.js": [
+      "a334fbbc-a653-4195-9ffb-240d301900e5"
+    ]
+  },
+  "externalIds": {}
+}

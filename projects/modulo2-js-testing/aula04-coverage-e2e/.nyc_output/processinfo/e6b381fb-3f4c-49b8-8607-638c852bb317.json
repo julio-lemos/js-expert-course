@@ -1,0 +1,21 @@
+{
+  "parent": null,
+  "pid": 18141,
+  "argv": [
+    "/Users/julio/.nvm/versions/node/v16.15.0/bin/node",
+    "/Users/julio/.nvm/versions/node/v16.15.0/lib/node_modules/npm/bin/npm-cli.js",
+    "exec",
+    "--",
+    "mocha",
+    "--parallel",
+    "src/api.test.js"
+  ],
+  "execArgv": [],
+  "cwd": "/Users/julio/studies/js-expert-course/projects/modulo2-js-testing/aula04-coverage-e2e",
+  "time": 1655570848805,
+  "ppid": 18140,
+  "coverageFilename": "/Users/julio/studies/js-expert-course/projects/modulo2-js-testing/aula04-coverage-e2e/.nyc_output/e6b381fb-3f4c-49b8-8607-638c852bb317.json",
+  "externalId": "",
+  "uuid": "e6b381fb-3f4c-49b8-8607-638c852bb317",
+  "files": []
+}
