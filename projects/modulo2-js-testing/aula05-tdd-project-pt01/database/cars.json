@@ -1,0 +1,23 @@
+[
+  {
+    "id": "33af9012-8630-4eb2-8b8a-d660bc0e5748",
+    "name": "A8",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c36107af-23f8-4447-9d3b-e5d924416195",
+    "name": "Alpine",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9658023d-67c3-4ae3-bf4d-d53de8497540",
+    "name": "Mercielago",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
